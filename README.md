@@ -65,8 +65,7 @@ Training progress was tracked with loss values and Dice scores, both saved and v
 As part of the course requirement, I estimated the energy usage of the training process.  
 Training was performed on an **NVIDIA GeForce RTX 4090** GPU, with an approximate power draw of **225W**.
 
-The result is stored in `model/energy_usage.txt`, including a rough conversion
-to equivalent distance driven in a Tesla Model Y (6.5 km/kWh efficiency).
+![Sustainability Metrics](assets/sustainability.png)
 
 ## Results
 ![Metrics](assets/metrics.png)
